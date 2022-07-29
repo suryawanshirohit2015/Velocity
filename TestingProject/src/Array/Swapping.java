@@ -4,7 +4,7 @@ public class Swapping {
 	
 	public static void main(String[] args) {
 		
-		int a[]= {45,67,87,62,32,90};
+		int a[]= {45,67,87,62,33,90};
 		
 		for(int i=0;i<a.length;i++) {
 			System.out.print(a[i]+", ");
